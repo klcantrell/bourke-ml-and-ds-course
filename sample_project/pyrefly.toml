@@ -1,1 +1,2 @@
 infer-with-first-use = false
+search-path = ["env/lib/python3.14/site-packages"]
