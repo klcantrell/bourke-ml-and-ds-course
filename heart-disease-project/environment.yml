@@ -1,0 +1,13 @@
+name: /Users/klcantrell/dev/bourke-ml-and-ds-course/sample_project/env
+channels:
+  - conda-forge
+dependencies:
+  - pandas=2.3.3
+  - numpy=2.4.0
+  - matplotlib=3.10.8
+  - scikit-learn=1.8.0
+  - jupyter=1.1.1
+  - seaborn=0.13.2 
+  - pip:
+      - pyrefly==0.48.0
+prefix: /Users/klcantrell/dev/bourke-ml-and-ds-course/sample_project/env
