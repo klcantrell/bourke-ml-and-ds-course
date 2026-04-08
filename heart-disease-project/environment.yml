@@ -1,4 +1,4 @@
-name: /Users/klcantrell/dev/bourke-ml-and-ds-course/sample_project/env
+name: /Users/klcantrell/dev/bourke-ml-and-ds-course/heart-disease-project/env
 channels:
   - conda-forge
 dependencies:
@@ -10,4 +10,4 @@ dependencies:
   - seaborn=0.13.2 
   - pip:
       - pyrefly==0.48.0
-prefix: /Users/klcantrell/dev/bourke-ml-and-ds-course/sample_project/env
+prefix: /Users/klcantrell/dev/bourke-ml-and-ds-course/heart-disease-project/env
